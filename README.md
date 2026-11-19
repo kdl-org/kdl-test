@@ -13,7 +13,7 @@ Alternatively, use [dotslash](https://dotslash-cli.com/docs) using the config in
 ## Usage
 
 ```shell
-kdl-test --decoder my-kdl-decoder
+kdl-test run --decoder my-kdl-decoder
 ```
 
 You should implement a `my-kdl-decoder` executable for your implementation with the following interface:
